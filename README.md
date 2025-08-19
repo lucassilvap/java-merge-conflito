@@ -1,0 +1,2 @@
+# java-merge-conflito
+testeDeMergeConflit
